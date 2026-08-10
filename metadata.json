@@ -1,0 +1,6 @@
+{
+  "name": "Viraj Film Studio",
+  "description": "Viraj Film Studio captures Indian weddings, pre-weddings and celebrations through professional photography, cinematic films and creative visual storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
